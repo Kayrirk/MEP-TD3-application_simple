@@ -12,7 +12,7 @@ Pour déployer l'application vous-même :
 - définir les ressources (laisser les valeurs par défauts)
 - définir le port HTTPS en interne : mettre 8080
 - créer le service "create service"
-- le service devrait se lancer (vous pouvez l'arrêter avec le bouton "Started" en haut à gauche)
+- le service devrait se lancer (vous pouvez l'arrêter avec le bouton "Started" en haut à droite)
 
 Pour accéder à votre application déployée sur le web ur le bouton "Hostname", copier le lien de "External hostname"
 C'est ce lien que vous devez renseigner dans votre navigateur.
