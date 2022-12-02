@@ -1,9 +1,8 @@
 Application web simple sur Nginx 
 
 Pour déployer l'application vous-même :
-- copier mon repository dans un repository sur votre compte Github
-https://github.com/Kayrirk/MEP-TD3-application_simple.git
-
+- télécharger mon repository : https://github.com/Kayrirk/MEP-TD3-application_simple.git
+- créer un repository sur votre compte Github dans lequel vous placerez les fichiers que vous aurez téléchargés depuis mon repository.
 - créer un compte Mogenius
 - créer un dashboard (la version gratuite fera l'affaire pour cette application)
 - créer un nouveau service : "Add" puis "Bring your own code"
